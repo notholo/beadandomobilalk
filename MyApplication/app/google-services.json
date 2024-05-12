@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1013482082069",
+    "firebase_url": "https://nail-saloon-c38ae-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "nail-saloon-c38ae",
+    "storage_bucket": "nail-saloon-c38ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013482082069:android:c797446b956b2d683d631c",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013482082069-svgpup8civ1d993a472bd0d99b2nl9d3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "b1bc0e726e85cd6219c4af30d8d75980c838219d"
+          }
+        },
+        {
+          "client_id": "1013482082069-8gq337eq090n1a5fcmdq90d5hifiapon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNnUBQsa0mlTPvJiLQR7hxvy10StSIox0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013482082069-8gq337eq090n1a5fcmdq90d5hifiapon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
