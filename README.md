@@ -9,7 +9,7 @@ Segítség az értékeléshez:
 -reszponzív: Én nem találtam olyan esetet, ahol ne lenne optimális. 3/3 
 -animáció: 2 animáció, első a mainen a gomb megnyomásra összemegy, a másik a loginon ha belemész az layoutba akkor mozog 2/2 
 -minden activity elérhető: 2/2 
--lifecycle hook nincs: 2/0 
+-lifecycle hook van: 2/2 LoginActivity onActivityResult() és onStart()
 -nincs benne permission: 1/0 
 -van benne notification és alarm scheduler: 2/2 
 -CRUD: firebase-el: 5/3 
